@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.father-cont{
+    width: 1250px;
+    margin: auto;
+}
+.home-page-div{
+    margin-top: 45px;
+}
+.home-page{
+    display: flex;
+    list-style: none;
+    margin-left: 900px;
+    margin-top: -20px;
+    font-family: 'Barlow';
+}
+.page{
+    margin-left: 30px;
+}
+.next-cont{
+    width: 1250px;
+    height: 500px;
+    margin-top: 50px;
+    background-color: gray;
+    border-radius: 10px;
+}
+.cont-name{
+    padding-top: 100px;
+    margin-left: 100px;
+    font-size: 70px;
+    font-family: 'Fraunces';
+    color: white;
+}
+.cont-lorem{
+    margin-left: 100px;
+    font-size: 16px;
+    font-family: 'Barlow';
+    color: white;
+}
+.cont-button{
+    width: 215px;
+    height: 56px;
+    background: #0E8784;
+    border-radius: 6px;
+    margin-left: 100px;
+    margin-top: 55px;
+}
+.img-colection{
+    margin-left: 60px;
+}
+.container{
+    width: 255px;
+    height: 400px;
+    margin-left: 40px;
+    margin-top: -50px;
+    display: inline-block;
+}
+.img-coffee{
+    width: 150px;
+    height: 120px;
+    margin-left: 45px;
+}  
+.img-name{
+    text-align: center;
+    font-family: 'Fraunces';
+    margin-top: 70px;
+}
+.img-lorem{
+    text-align: center;
+    font-family: 'Barlow';
+}
+.img-name-2{
+    text-align: center;
+    font-family: 'Fraunces';
+    margin-top: 70px;
+}
+.img-lorem-2{
+    text-align: center;
+    font-family: 'Barlow';
+}
+.img-name-3{
+    text-align: center;
+    font-family: 'Fraunces';
+    margin-top: 70px;
+}
+.img-lorem-3{
+    text-align: center;
+    font-family: 'Barlow';
+}
+.img-name-4{
+    text-align: center;
+    font-family: 'Fraunces';
+    margin-top: 70px;
+}
+.img-lorem-4{
+    text-align: center;
+    font-family: 'Barlow';
+}
+.next-cont-3{
+    width: 1250px;
+    height: 500px;
+    background-color: #333540;
+    border-radius: 10px;
+}
+.cont-name-1{
+    text-align: center;
+    font-family: 'Fraunces';
+    color: white;
+    padding-top: 110px;
+}
+.cont-lorem-1{
+    text-align: center;
+    font-family: 'Barlow';
+    color: white;
+    margin-top: 30px;
+}
+.cont-1{
+    width: 350px;
+    height: 380px;
+    background-color: #0E8784;
+    display: inline-block;
+    border-radius: 8px;
+    margin-left: 45px;
+    margin-top: -200px;
+}
+.img-coffee-2{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    margin-left: 130px;
+    padding-top: 70px;
+}
+.img-surpr{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    margin-left: 130px;
+    padding-top: 70px;
+}
+.img-car{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    margin-left: 130px;
+    padding-top: 70px;
+}
+.cont-name-2{
+    text-align: center;
+    margin-top: 230px;
+    font-family: 'Fraunces';
+    color: white;
+}
+.cont-lorem-2{
+    text-align: center;
+    font-family: 'Barlow';
+    color: white;
+    margin-top: 20px;
+}
+.cont-2-name{
+    font-family: 'Fraunces';
+    color: grey;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+.cont-2{
+    width: 300px;
+    height: 450px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+.img-01{
+    margin-top: 20px;
+}
+.img-02{
+    margin-top: 20px;
+}
+.img-03{
+    margin-top: 20px;
+}
+.cont-name-3{
+    font-family: 'Fraunces';
+    color: #333D4B;
+    margin-top: 30px;
+}
+.cont-lorem-3{
+    font-family: 'Barlow';
+    color: #333D4B;
+    margin-top: 40px;
+}
+.cont-button-3{
+    width: 217px;
+    height: 56px;
+    background: #0E8784;
+    border-radius: 6px;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+.last-cont{
+    width: 1250px;
+    height: 120px;
+    background: #2C343E;
+    margin-top: 200px;
+}
+.img-coffee-3{
+    width: 230px;
+    height: 25px;
+    margin-left: 85px;
+    margin-top: 47px;
+}
+.last-home-page{
+    display: flex;
+    list-style: none;
+    margin-left: 450px;
+}
+.last-page{
+    margin-left: 30px;
+    margin-top: -22px;
+    color: white;
+    font-family: 'Barlow';
+}
+.img-face{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -22px;
+}
+.img-twit{
+    position: absolute;
+    margin-top: -22px;
+    margin-left: 1050px;
+}
+.img-insta{
+    position: absolute;
+    margin-top: -22px;
+    margin-left: 1100px;
+}
